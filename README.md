@@ -11,5 +11,6 @@ Hands-on SOC Analyst L1 portfolio featuring SIEM investigations, Windows event a
 -VMware Workstation
 
 ## Investigations
-| Lab | Investigation | Technologies | Status |
-| 01 | Multiple failed windows logins | Splunk, Windows Event Logs |
+-| Lab | Investigation | Technologies | Status |
+
+-| 01 | Multiple failed windows logins | Splunk, Windows Event Logs |
