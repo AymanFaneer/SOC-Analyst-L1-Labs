@@ -104,7 +104,7 @@ Where:
 
 ### Evidence — Splunk Authentication Events
 
-![Splunk Authentication Events](screenshots/02-splunk-authentication-events.png)
+![Splunk Authentication Events]( Attached in Lab 02 Remote RDP brute force Investigation ) 
 
 The logs showed approximately the following sequence:
 
