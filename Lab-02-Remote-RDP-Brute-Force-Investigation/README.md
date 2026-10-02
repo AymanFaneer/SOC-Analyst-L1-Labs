@@ -46,7 +46,7 @@ The test was performed only inside an isolated and authorized VMware lab environ
 
 ### Evidence — Brute-Force Simulation
 
-![RDP Brute-Force Simulation](screenshots/01-rdp-brute-force-simulation.png)
+![RDP Brute-Force Simulation] #Attached in Lab 02 Remote RDP brute force Investigation
 
 The simulation generated repeated authentication attempts against the `ayman` account. After multiple incorrect password attempts, a valid credential was accepted.
 
